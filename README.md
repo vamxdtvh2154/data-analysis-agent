@@ -132,8 +132,4 @@ data_analysis_agent/
 - sample_data/
 - sales_sample.csv
 
-## 注意事项
 
-不要把 .env 文件上传到 GitHub，因为里面会包含你的 API Key。
-
-可以上传 .env.example，它只是配置模板。
